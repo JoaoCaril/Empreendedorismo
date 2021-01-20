@@ -1,12 +1,10 @@
 # EMPREENDEDORISMO
 
 > Google Docs: https://docs.google.com/document/d/1lDXTC4JTzsfDoZ7lOMgYw-l8u2iyA6wpFQwJYeqeSgE/edit
-
+>
 > Drive: https://drive.google.com/drive/folders/1eTxHGjvsR67XgEss0HtRJmWw0u4kJ_V2?fbclid=IwAR2sdWYTi9PAVGm87tAnr36SX_xcbbj0-EWRAxpX0OH95JYT3MhnIRvS62s
-
+>
 > Moodle: https://moodle.fct.unl.pt/course/view.php?id=6555 .. https://moodle.fct.unl.pt/course/view.php?id=6641
-
-<br/>
 
 ## REUNIÃO 20/1
 

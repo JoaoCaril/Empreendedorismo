@@ -8,8 +8,6 @@
 
 ## REUNIÃO 20/1
 
----
-
 `Problemas` abordados:
 
 - Quem é que paga? E quanto?
